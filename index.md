@@ -7,6 +7,7 @@ Selected presentations in the topics of
 * Engineering excellence
 * Agile
 * DevOps
+* Diversity
 
 
 * [Randy Shoup: Moving Fast at Scale](moving-fast-at-scale)
