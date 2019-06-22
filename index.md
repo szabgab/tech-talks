@@ -9,5 +9,5 @@ Selected presentations in the topics of
 * DevOps
 
 
-* [Randy Shoup: Moving Fast at Scale](moving-fast-at-scale)
+* [Randy Shoup: Moving Fast at Scale](moving-fast-at-scale) ![](img/s/moving-fast-at-scale.jpeg]
 

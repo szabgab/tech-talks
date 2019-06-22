@@ -35,3 +35,6 @@ allowfullscreen>
 * Opportunity cost
 * *Fewer Things, More Done*  (Limiting Work in Progress or WIP)
 * We don't have the time to do it right!
+
+
+![](img/l/moving-fast-at-scale.jpeg]
