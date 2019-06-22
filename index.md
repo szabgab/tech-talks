@@ -1,4 +1,4 @@
-# Tech Talks for Technical Leadership
+# Tech Talks for Technical Leaders
 
 
 Selected presentations in the topics of
