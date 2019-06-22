@@ -37,4 +37,4 @@ allowfullscreen>
 * We don't have the time to do it right!
 
 
-![](assets/img/l/moving-fast-at-scale.jpeg)
+![](assets/img/l/moving-fast-at-scale.jpg)
