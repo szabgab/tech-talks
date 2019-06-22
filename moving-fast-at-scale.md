@@ -1,6 +1,6 @@
 # Randy Shoup: Moving Fast at Scale
 
-## Spaker
+## Speaker
 
 * Randy Shoup is VP R&amp;D at [WeWork](https://www.wework.com/)
 * [Randy Shoup](http://randyshoup.com/)

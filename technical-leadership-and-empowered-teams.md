@@ -1,9 +1,13 @@
 # Emily Bache: Technical Leadership and Empowered Teams
 
+## Speaker
+
 * Emily Bache is Technical Agile Coach at [Praqma](https://www.praqma.com/)
 * [Emily Bache: coding is like cooking](http://coding-is-like-cooking.info/)
 * [Twitter](https://twitter.com/emilybache)
 * [LinkedIn](https://www.linkedin.com/in/emilybache/)
+
+## Video
 
 * [Technical Leadership and Empowered Teams](https://www.youtube.com/watch?v=qnujkFY2gKs)
 
@@ -26,7 +30,7 @@ allowfullscreen>
 * Skill Transfer
 * Visitors are quickly contributors
 
-## Books
+### Books
 
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 * [Woody Zuill and Kevin Meadows: Mob Programming - A Whole Team Approach](https://leanpub.com/mobprogramming)
@@ -35,7 +39,7 @@ allowfullscreen>
 * [Maaret Pyhäjärvi: The Mob Programming Guidebook](https://mobprogrammingguidebook.xyz/)
 * [Llewellyn Falco:  The Mob Programming Guidebook](http://www.mobprogrammingguidebook.com/)
 
-## Definitions
+### Definitions
 
 * [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
 * [Mob programming](https://en.wikipedia.org/wiki/Mob_programming)

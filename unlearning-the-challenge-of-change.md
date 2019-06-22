@@ -1,8 +1,12 @@
 # Jessie Shternshus: Unlearning - The Challenge of Change
 
+## Speaker
+
 * Jessie Shternshus, owner of [The Improv Effect](https://improveffect.com/)
 * [LinkedIn](https://www.linkedin.com/in/jessie-shternshus-04765a11/)
 * [Twitter](https://twitter.com/TheImprovEffect)
+
+## Video
 
 * [Unlearning - The Challenge of Change](https://www.youtube.com/watch?v=rfPRPoY6cIY)
 
@@ -29,7 +33,6 @@ opportunity to attend one of her talks or workshops then watching the presentati
 * "There is no mind harder to change than one that has been hugely rewarded for not changing." - Alan Cooper
 * "Transformation is not a transactional activity, it is ongoing and changes over time." - Dan North
 
-
 ## SHIFT
 
 * Surface the resistance
@@ -37,7 +40,6 @@ opportunity to attend one of her talks or workshops then watching the presentati
 * Identify the value for them to change (not for you)
 * Find ways to break down barriers
 * Train them with experiental methods day by day
-
 
 
 * Change habits

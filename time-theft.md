@@ -1,11 +1,10 @@
 # Dominica DeGrandis: Time Theft : How Hidden and Unplanned work Commit the Perfect Crime
 
-## Spaker
+## Speaker
 
-* Kanban Flow expert
+* Dominica DeGrandis Kanban Flow expert
 * [Dominica DeGrandis](http://ddegrandis.com/)
 * [Twitter](https://twitter.com/dominicad)
-
 
 ## Video
 
