@@ -1,4 +1,4 @@
-# Dominica DeGrandis: Time Theft : How Hidden and Unplanned work Commit the Perfect Crime
+# Dominica DeGrandis: Time Theft: How Hidden and Unplanned work Commit the Perfect Crime
 
 ## Speaker
 
@@ -8,7 +8,14 @@
 
 ## Video
 
-https://www.youtube.com/watch?v=-TGJePmaaas
+[Time Theft](https://www.youtube.com/watch?v=-TGJePmaaas)
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/-TGJePmaaas"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
 
 ## Source
 
