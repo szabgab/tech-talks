@@ -2,8 +2,7 @@
 
 ## Speaker
 
-* Dominica DeGrandis Kanban Flow expert
-* [Dominica DeGrandis](http://ddegrandis.com/)
+* [Dominica DeGrandis Kanban Flow expert](http://ddegrandis.com/)
 * [Twitter](https://twitter.com/dominicad)
 
 ## Video
@@ -20,8 +19,7 @@ allowfullscreen>
 ## Source
 
 * [Devops Summit 2016](https://events.itrevolution.com/)
-
-https://itrevolution.com/faculty/dominica-degrandis/
+* [Dominica DeGrandis at DevOps Summit 2016](https://itrevolution.com/faculty/dominica-degrandis/)
 
 ## Notes
 
@@ -49,9 +47,5 @@ https://itrevolution.com/faculty/dominica-degrandis/
 * [Troy Magennis: Forecasting and Simulating Software Development projects](https://www.amazon.com/Forecasting-Simulating-Software-Development-Projects/dp/1466454830/)
 * [Donald G. Reinertsen: The principles of product development flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 * [Daniel S. Vacanti: Actionable Agile metrics for predictability:  An Introduction](https://www.amazon.com/Actionable-Agile-Metrics-Predictability-Introduction/dp/098643633X/)
-
-
-
-
 
 
