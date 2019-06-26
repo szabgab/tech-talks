@@ -49,3 +49,4 @@ allowfullscreen>
 * [Daniel S. Vacanti: Actionable Agile metrics for predictability:  An Introduction](https://www.amazon.com/Actionable-Agile-Metrics-Predictability-Introduction/dp/098643633X/)
 
 
+![](assets/img/l/time-theft.jpg)
