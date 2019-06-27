@@ -4,6 +4,7 @@
 
 * [Dominica DeGrandis Kanban Flow expert](http://ddegrandis.com/)
 * [Twitter](https://twitter.com/dominicad)
+* [LinkedIn](https://www.linkedin.com/in/dominicadegrandis/)
 
 ## Video
 
