@@ -32,6 +32,7 @@ opportunity to attend one of her talks or workshops then watching the presentati
 * [CTRL-SHIFT](https://www.amazon.com/CTRL-SHIFT-Mike-Bonifer/dp/0986296597) by by Mike Bonifer and Jessie Shternshus
 * "There is no mind harder to change than one that has been hugely rewarded for not changing." - Alan Cooper
 * "Transformation is not a transactional activity, it is ongoing and changes over time." - Dan North
+* Unlearning needs to happen on three levels in order to be successful: individual, team and organizational.
 
 ## SHIFT
 
