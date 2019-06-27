@@ -44,4 +44,4 @@ allowfullscreen>
 * [Pair Programming](https://en.wikipedia.org/wiki/Pair_programming)
 * [Mob programming](https://en.wikipedia.org/wiki/Mob_programming)
 
-![](img/l/technical-leadership-and-empowered-teams.jpg)
+![](assets/img/l/technical-leadership-and-empowered-teams.jpg)
