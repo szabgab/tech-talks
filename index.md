@@ -21,3 +21,7 @@ I know quite a few speakers and presentations that are worth adding to the list,
 I'd love to hear your recommendations. Specific presentations, a recommended speaker or a recommended conference.
 All are welcome. Feel free to contact me with your suggestions via [LinkedIn](https://www.linkedin.com/in/szabgab) or [Twitter](https://twitter.com/szabgab).
 
+
+## Twitter list of speakers
+
+* [Tech-Talk](https://twitter.com/szabgab/lists/tech-talks)
