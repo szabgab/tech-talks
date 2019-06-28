@@ -25,7 +25,7 @@ allowfullscreen>
 
 ## Notes
 
-* [Addis Ababa](https://en.wikipedia.org/wiki/Addis_Ababa) capitol of Ethiopia.
+* [Addis Ababa](https://en.wikipedia.org/wiki/Addis_Ababa) capital of Ethiopia.
 
 * First to serve, last to eat
 * Led by observing
