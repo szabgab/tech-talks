@@ -63,3 +63,6 @@ allowfullscreen>
 
 * [The Constitution of the United States](https://www.archives.gov/founding-docs/constitution-transcript)
 
+
+![](assets/img/l/lending-privilege.jpg)
+
