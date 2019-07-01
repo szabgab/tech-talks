@@ -1,5 +1,7 @@
 # Dominica DeGrandis: Time Theft: How Hidden and Unplanned work Commit the Perfect Crime
 
+The five sources of unaccounted work. How to make our work and the time we spend on it visible. How to eliminate the waste and become much more productive.
+
 ## Speaker
 
 * [Dominica DeGrandis Kanban Flow expert](http://ddegrandis.com/)
@@ -49,5 +51,6 @@ allowfullscreen>
 * [Donald G. Reinertsen: The principles of product development flow: Second Generation Lean Product Development](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)
 * [Daniel S. Vacanti: Actionable Agile metrics for predictability:  An Introduction](https://www.amazon.com/Actionable-Agile-Metrics-Predictability-Introduction/dp/098643633X/)
 
+![](assets/img/p/dominica_degrandis.jpg)
 
 ![](assets/img/l/time-theft.jpg)
