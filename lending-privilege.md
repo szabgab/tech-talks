@@ -66,3 +66,4 @@ allowfullscreen>
 
 ![](assets/img/l/lending-privilege.jpg)
 
+![](assets/img/p/anjuan-simmons.jpg)
