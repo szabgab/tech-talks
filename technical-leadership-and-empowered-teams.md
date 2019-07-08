@@ -45,3 +45,5 @@ allowfullscreen>
 * [Mob programming](https://en.wikipedia.org/wiki/Mob_programming)
 
 ![](assets/img/l/technical-leadership-and-empowered-teams.jpg)
+
+![](assets/img/p/emily_bache.jpg)
