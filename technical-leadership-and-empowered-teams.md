@@ -1,5 +1,7 @@
 # Emily Bache: Technical Leadership and Empowered Teams
 
+On productivity, skill-transfer, high-performance organizations, pair and mob-programming.
+
 ## Speaker
 
 * Emily Bache is Technical Agile Coach at [Praqma](https://www.praqma.com/)
