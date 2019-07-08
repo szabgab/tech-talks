@@ -49,4 +49,6 @@ opportunity to attend one of her talks or workshops then watching the presentati
 
 * Escape thinking - take all the attributes of something. Take away one attribute and discuss, how that will change that thing.
 
+![](assets/img/l/unlearning-the-challenge-of-change.jpg)
 
+![](assets/img/p/jessie_shternshus.jpg)
