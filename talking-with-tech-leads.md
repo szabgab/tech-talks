@@ -124,4 +124,7 @@ Tell => Sell (Why should they do the thing, motivate them)   =>  Particiapte (Wo
 * Move from being a "Maker" to become a "Multiplier".
 
 
+![](assets/img/l/talking-with-tech-leads.jpg)
+
+![](assets/img/p/patrick_kua.jpg)
 
