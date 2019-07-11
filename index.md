@@ -28,9 +28,9 @@ stretching. That's a perfect time to watch the videos.
 
 Curated by [Gabor Szabo](https://www.linkedin.com/in/szabgab) [@szabgab](https://twitter.com/szabgab).
 
-## Do you have suggestions?
+## What are your favorite talks?
 
-I know quite a few speakers and presentations that are worth adding to the list, but there a lot more I don't know.
+I know a few speakers and presentations that are worth adding to the list, but there a lot more I don't know.
 I'd love to hear your recommendations. Specific presentations, a recommended speaker, or a recommended conference.
 All are welcome. Feel free to contact me with your suggestions via [LinkedIn](https://www.linkedin.com/in/szabgab) or [Twitter](https://twitter.com/szabgab).
 
