@@ -1,5 +1,7 @@
 # Anjuan Simmons: Lending Privilege
 
+From Star Trek to modern day equality, diversity, and inclusiveness. What can you do?
+
 ## Speaker
 
 * [Anjuan Simmons](https://anjuansimmons.com/)
