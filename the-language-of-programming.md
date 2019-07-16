@@ -84,4 +84,7 @@ result = analyze('data')
 
 * *code* is *language* is *collaboration* is *power*
 
+![](assets/img/l/the-language-of-programming.jpg)
+
+![](assets/img/p/anjana_vakil.jpg)
 

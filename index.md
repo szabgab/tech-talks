@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2019.07.16 [Anjana Vakil - The Language of Programming](the-language-of-programming)
 * 2019.07.11 [Patrick Kua - Talking with Tech Leads](talking-with-tech-leads)
 * 2019.07.08 [Jessie Shternshus - Unlearning: The Challenge of Change](unlearning-the-challenge-of-change)
 * 2019.06.30 [Anjuan Simmons - Lending Privilege](lending-privilege)
