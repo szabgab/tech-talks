@@ -8,16 +8,7 @@ Selected presentations in the topics of
 * DevOps
 * Diversity
 
-You don't have a lot of time to go to conferences and even when you do, you spend the majority of your time in the
-"hallway track" talking to other participants. Luckily many events record the talks and you can watch them later.
-But which one and when? My goal is to provide you with a list of presentation recommended by other tech leaders
-Not only that, but I watch each one of the presentations and add extensive annotations and links so you don't
-have to track down the books and sites recommended during the presentations.
-
-As for the when: During the day you have certain periods when you can focus less or when you feel you need
-stretching. That's a perfect time to watch the videos.
-
-## So far:
+## So far we have
 
 * 2019.07.11 [Patrick Kua - Talking with Tech Leads](talking-with-tech-leads)
 * 2019.07.08 [Jessie Shternshus - Unlearning: The Challenge of Change](unlearning-the-challenge-of-change)
@@ -27,6 +18,18 @@ stretching. That's a perfect time to watch the videos.
 * 2019.06.22 [Randy Shoup - Moving Fast at Scale](moving-fast-at-scale)
 
 Curated by [Gabor Szabo](https://www.linkedin.com/in/szabgab) [@szabgab](https://twitter.com/szabgab).
+
+## Why?
+
+You don't have a lot of time to go to conferences and even when you do, you spend the majority of your time in the
+"hallway track" talking to other participants. Luckily many events record the talks and you can watch them later.
+But which one and when? My goal is to provide you with a list of presentation recommended by other tech leaders
+Not only that, but I watch each one of the presentations and add extensive annotations and links so you don't
+have to track down the books and sites recommended during the presentations.
+
+As for the when: During the day you have certain periods when you can focus less or when you feel you need
+stretching. That's a perfect time to watch the videos.
+
 
 ## What are your favorite talks?
 
