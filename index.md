@@ -10,13 +10,13 @@ Selected presentations in the topics of
 
 ## So far we have
 
-* 2019.07.16 [Anjana Vakil - The Language of Programming](the-language-of-programming)
-* 2019.07.11 [Patrick Kua - Talking with Tech Leads](talking-with-tech-leads)
-* 2019.07.08 [Jessie Shternshus - Unlearning: The Challenge of Change](unlearning-the-challenge-of-change)
-* 2019.06.30 [Anjuan Simmons - Lending Privilege](lending-privilege)
-* 2019.06.27 [Emily Bache -  Technical Leadership and Empowered Teams](technical-leadership-and-empowered-teams)
-* 2019.06.26 [Dominica DeGrandis - Time Theft : How Hidden and Unplanned work Commit the Perfect Crime](time-theft)
-* 2019.06.22 [Randy Shoup - Moving Fast at Scale](moving-fast-at-scale)
+* 2019.07.16 [The Language of Programming by Anjana Vakil](the-language-of-programming)
+* 2019.07.11 [Talking with Tech Leads by Patrick Kua](talking-with-tech-leads)
+* 2019.07.08 [Unlearning: The Challenge of Change by Jessie Shternshus](unlearning-the-challenge-of-change)
+* 2019.06.30 [Lending Privilege by Anjuan Simmons](lending-privilege)
+* 2019.06.27 [Technical Leadership and Empowered Teams by Emily Bache](technical-leadership-and-empowered-teams)
+* 2019.06.26 [Time Theft : How Hidden and Unplanned work Commit the Perfect Crime by Dominica DeGrandis](time-theft)
+* 2019.06.22 [Moving Fast at Scale by Randy Shoup](moving-fast-at-scale)
 
 Curated by [Gabor Szabo](https://www.linkedin.com/in/szabgab) [@szabgab](https://twitter.com/szabgab).
 
