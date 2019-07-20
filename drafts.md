@@ -7,6 +7,8 @@
 
 * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr by John Allspaw and Paul Hammondt](ten-plus-deploys-per-day)
 * [Designing a high-performing team by Alison Coward](designing-high-perfoming-team)
+* [Testing in Production by Michael Bryzek](testing-in-production)
+
 * [From 0% to Cleanly Refactored 100% tested code by Llewellyn Falco](from-0-to-clean-refactored-100-tested-code)
 
 * [Skeleton](skeleton)
