@@ -90,6 +90,6 @@ Some of these flags are on/of, others are more gradual knobs.
 
 ### Adaptive feedback loops
 
-
+27:30
 
 ![](assets/img/l/)
