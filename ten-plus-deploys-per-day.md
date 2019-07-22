@@ -2,9 +2,11 @@
 
 ## Speaker
 
+* John Allspaw ran the Operations group at [Flickr]( https://www.flickr.com/)
 * [John Allspaw Twitter](https://twitter.com/allspaw)
 * [John Allspaw LinkedIn](https://www.linkedin.com/in/jallspaw/)
 
+* Pauk Hammoind ran the Engineering group at [Flickr]( https://www.flickr.com/)
 * [Paul Hammond Twitter](https://twitter.com/ph)
 * [Paul Hammond LinkedIn](https://www.linkedin.com/in/paulhammond/)
 
@@ -25,6 +27,69 @@ allowfullscreen>
 ## Slides
 
 ## Notes
+
+How Development and Operations fit together.
+
+Devs. vs Ops.
+
+Stereotypes:
+* Operations are like old grumpy men who always say
+
+Traditional roles:
+* Dev's job is to add new features
+* Ops' job is to keep the site stable and fast
+
+
+* The reality is that *Ops job is to enable the business*
+* The business requires change
+* Change is the root cause of most outages.
+
+Two options:
+* Discourage change in the interest of stability
+* Build tools and culture to Allow change to happen as often as it needs to
+
+Build tools to Reduce the risk of changes.
+Build tools to be able to easily recover from failures
+
+Developers who think more like operations people
+Operations people who think more like Developers.
+
+1. Automated infrastructure -> consistent platforms for development and production (Infrastructure as code?, Role and configuration management)
+2. Shared version control for both development and operations
+3. Set up a one step build system  (build and deploy to staging)
+4. One step deploy
+5. Have a deploy log (Who? When? What?)
+
+(Continuous Integration / Continuous Deployment)
+
+[Hudson (now Jenkins)](https://jenkins.io/)
+
+Each individual deploy involves less change and thus less risk.
+
+### Feature flags
+
+Always ship "trunk" (what is usually called "master" in Git)
+
+(They) don't work in branches, but use feature flags to enable/disable certain feature of the application / web site.
+
+Allow private beta on productions servers.
+
+This Allows bucket testing (A/B testing)
+Turn on a features to a subset of the users.
+Allows dark launches.
+
+This takes the fear out of the work.
+They had a couple of hundred feature flags.
+
+Some of these flags are on/of, others are more gradual knobs.
+
+### Shared metrics
+
+* Developers have access the metrics of the operation and application level metrics in one place.
+* Show the last site update on the top of every page of every metric in order to have better context.
+
+### Adaptive feedback loops
+
 
 
 ![](assets/img/l/)
