@@ -97,3 +97,7 @@ allowfullscreen>
 
 
 
+![](assets/img/l/how-to-build-a-magical-living-room.jpg)
+
+![](assets/img/p/saron_yitbarek.jpg)
+
