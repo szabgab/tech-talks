@@ -90,6 +90,63 @@ Some of these flags are on/of, others are more gradual knobs.
 
 ### Adaptive feedback loops
 
-27:30
+### Communication
+
+* IRC ad IM bots (it could be also Slack or Microsoft Team)
+
+### Culture
+Argumentative, combative culture won?t help?.
+Having a culture of respect
+Don?t stereotypes (Not all developers are lazy, not all ops people are grumpy)
+Everyone is a snowflake
+Respect the opinions of other people and the responsibilities of other people that means people have different priorities.
+Don?t just say ?no?. Try to find out what problem they are trying to solve.
+
+Developers and Operations come together to find unique solutions.
+Don?t hide your solutions from the other people
+
+Developers: Talks to the ops about the impact of your code!
+What metrics will change, and how  (CPU, memory ?)
+What are the risks
+What are the signs that something is going wrong
+What are the contingencies
+
+## Trust
+
+Provide knobs and levers that in operation can be tweaked to
+Ops: Be transparent, give devs (read only) access to the system so they can see what?s going on without going through operations.
+Its low risk and empowering.
+They can access all the metrics.
+
+## Healthy attitude about failure:
+Failure will happen
+Think about what to do when failure happens (evacuation plans)
+Ability to respond to problems
+Fire-drills to prepare for the real fire (real problem)
+
+Avoiding blame, rule of no finger-pointing.
+
+If there is a problem, first fix it and only feel bad about it.
+
+Developers: Remember that someone else will probably get woken up when your code breaks. (better yet, make the developers on-call. Wake them up when the code breaks. Put Devs on call.)
+
+Developers: What would you do differently if there was no one else who could fix the issues when they break in the middle of the night? What would you do differently if it was you who get woken up?
+
+Operations: provide constructive feedback on what?s going on. What are the current aches and pains.
+
+1. Automated infrastructure
+2. Shared Version control
+3. One step build and deploy
+4. Feature Flags
+5. Shared metric
+6. IRC and IM robots
+
+
+1. Respect
+2. Trust
+3. Healthy attitude about failure
+4. Avoiding Blame
+
+
 
 ![](assets/img/l/)
