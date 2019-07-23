@@ -8,6 +8,7 @@
 * [Designing a high-performing team by Alison Coward](designing-high-perfoming-team)
 * [Testing in Production by Michael Bryzek](testing-in-production)
 * [Continuous Delivery by Martin Fowler](continuous-delivery)
+* [Architecting for Continuous Delivery by Jez Humble](architecting-for-continuous-delivery)
 
 * [From 0% to Cleanly Refactored 100% tested code by Llewellyn Falco](from-0-to-clean-refactored-100-tested-code)
 
