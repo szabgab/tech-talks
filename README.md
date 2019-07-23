@@ -12,4 +12,3 @@
  https://img.youtube.com/vi/<insert-youtube-video-id-here>/3.jpg
 ```
 
-https://www.youtube.com/watch?v=aWiwDdx_rdo
