@@ -9,6 +9,9 @@ same computer.
 * [Twitter](https://twitter.com/WoodyZuill)
 * [LinkedIn](https://www.linkedin.com/in/woodyzuill/)
 
+* [Mob Programming](https://leanpub.com/mobprogramming) the book by Woody Zuill
+* [Mob Programming Conference](https://mobprogramming.org/)
+
 ## Video
 
 * [Mob Programming: A Whole Team Approach](https://www.youtube.com/watch?v=SHOVVnRB4h0)
