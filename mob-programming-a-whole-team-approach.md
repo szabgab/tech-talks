@@ -21,7 +21,7 @@ allowfullscreen>
 
 ## Source
 
-* At [Craft-Conf Budapest 2019](https://craft-conf.com/)
+* At [Goto Conference](http://gotocon.com/)
 
 ## Notes
 
