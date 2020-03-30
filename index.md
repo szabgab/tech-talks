@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2020.03.30 [Mob Programming: A Whole Team Approach by Woody Zuill](mob-programming-a-whole-team-approach)
 * 2019.07.22 [How to Build a Magical Living Room by Saron Yitbarek](how-to-build-a-magical-living-room)
 * 2019.07.16 [The Language of Programming by Anjana Vakil](the-language-of-programming)
 * 2019.07.11 [Talking with Tech Leads by Patrick Kua](talking-with-tech-leads)

@@ -1,7 +1,6 @@
 # Drafts
 
 * [Breaking Codes, Building Jets, and Designing Teams by Randy Shoup](breaking-codes-building-jets-and-designing-teams)
-* [Mob Programming: A Whole Team Approach by Woody Zuill](mob-programming-a-whole-team-approach)
 
 
 * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr by John Allspaw and Paul Hammondt](ten-plus-deploys-per-day)
