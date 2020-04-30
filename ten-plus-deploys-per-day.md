@@ -1,6 +1,6 @@
 # 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
 
-## Speaker
+## Speakers
 
 * John Allspaw ran the Operations group at [Flickr]( https://www.flickr.com/)
 * [John Allspaw Twitter](https://twitter.com/allspaw)
