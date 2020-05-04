@@ -1,4 +1,4 @@
-# Designing a high-performing team by Alison Coward
+# Designing a high-performing team - Alison Coward
 
 ## Speaker
 

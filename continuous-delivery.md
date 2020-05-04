@@ -1,4 +1,4 @@
-# Continuous Delivery by Martin Fowler
+# Continuous Delivery - Martin Fowler
 
 ## Speaker
 

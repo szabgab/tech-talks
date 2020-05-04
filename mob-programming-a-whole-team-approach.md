@@ -1,4 +1,4 @@
-# Woody Zuill - Mob Programming: A Whole Team Approach
+# Mob Programming: A Whole Team Approach - Woody Zuill
 
 Mob programming is all the brilliant minds working on the same thing, at the same time, in the same space and on the
 same computer.

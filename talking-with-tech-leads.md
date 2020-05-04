@@ -1,4 +1,4 @@
-# Patrick Kua: Talking with Tech Leads
+# Talking with Tech Leads - Patrick Kua
 
 Moving from an engineer to a tech lead. What is a Tech Lead? Surprises and struggles.
 

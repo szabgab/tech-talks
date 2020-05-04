@@ -1,4 +1,4 @@
-# Dominica DeGrandis: Time Theft: How Hidden and Unplanned work Commit the Perfect Crime
+# Time Theft: How Hidden and Unplanned work Commit the Perfect Crime - Dominica DeGrandis
 
 The five sources of unaccounted work. How to make our work and the time we spend on it visible. How to eliminate the waste and become much more productive.
 

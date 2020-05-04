@@ -1,4 +1,4 @@
-# Emily Bache: Technical Leadership and Empowered Teams
+# Technical Leadership and Empowered Teams - Emily Bache
 
 On productivity, skill-transfer, high-performance organizations, pair and mob-programming.
 

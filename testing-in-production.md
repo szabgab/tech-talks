@@ -1,4 +1,4 @@
-# Testing in Production
+# Testing in Production - Michael Bryzek
 
 Production: Designing for Testability (aka. Testing in Production)
 Is your code working in production? Right now? Does your monitoring system work? Does your alerting system work?

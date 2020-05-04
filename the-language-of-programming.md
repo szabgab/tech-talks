@@ -1,4 +1,4 @@
-# Anjana Vakil: The Language of Programming
+# The Language of Programming - Anjana Vakil
 
 ## Speaker
 

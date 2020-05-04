@@ -1,4 +1,4 @@
-# Breaking Codes, Building Jets, and Designing Teams by Randy Shoup
+# Breaking Codes, Building Jets, and Designing Teams - Randy Shoup
 
 ## Speaker
 

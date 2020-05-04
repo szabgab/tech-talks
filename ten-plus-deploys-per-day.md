@@ -1,4 +1,4 @@
-# 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr
+# 10+ Deploys Per Day: Dev and Ops Cooperation at Flickr - John Allspaw, Paul Hammond
 
 ## Speakers
 
@@ -6,7 +6,7 @@
 * [John Allspaw Twitter](https://twitter.com/allspaw)
 * [John Allspaw LinkedIn](https://www.linkedin.com/in/jallspaw/)
 
-* Pauk Hammoind ran the Engineering group at [Flickr]( https://www.flickr.com/)
+* Pauk Hammond ran the Engineering group at [Flickr]( https://www.flickr.com/)
 * [Paul Hammond Twitter](https://twitter.com/ph)
 * [Paul Hammond LinkedIn](https://www.linkedin.com/in/paulhammond/)
 

@@ -1,4 +1,4 @@
-# Randy Shoup: Moving Fast at Scale
+# Moving Fast at Scale - Randy Shoup
 
 ## Speaker
 

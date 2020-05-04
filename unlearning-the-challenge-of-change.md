@@ -1,4 +1,4 @@
-# Jessie Shternshus: Unlearning - The Challenge of Change
+# Unlearning - The Challenge of Change - Jessie Shternshus
 
 ## Speaker
 

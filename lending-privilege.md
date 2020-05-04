@@ -1,4 +1,4 @@
-# Anjuan Simmons: Lending Privilege
+# Lending Privilege - Anjuan Simmons
 
 From Star Trek to modern day equality, diversity, and inclusiveness. What can you do?
 

@@ -1,4 +1,4 @@
-# Saron Yitbarek: How to Build a Magical Living Room
+# How to Build a Magical Living Room - Saron Yitbarek
 
 How to build authentic and engaged communities.
 
