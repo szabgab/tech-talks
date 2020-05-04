@@ -1,4 +1,4 @@
-# Architecting for Continuous Delivery by Jez Humble
+# Architecting for Continuous Delivery - Jez Humble
 
 ## Speaker
 

@@ -1,4 +1,4 @@
-# Llewellyn Falco - From 0% to Cleanly Refactored 100% tested code
+# From 0% to Cleanly Refactored 100% tested code - Llewellyn Falco
 
 ## Speaker
 
