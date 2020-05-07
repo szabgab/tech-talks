@@ -12,10 +12,6 @@
 <iframe src="https://player.vimeo.com/video/49718712?color=a086ee&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/49718712">Rob Pike - &#039;Concurrency Is Not Parallelism&#039;</a> from <a href="https://vimeo.com/heroku">Heroku</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## Source
-
-* At [Craft-Conf Budapest 2019](https://craft-conf.com/)
-
 ## Slides
 
 * [article](https://blog.golang.org/waza-talk)
