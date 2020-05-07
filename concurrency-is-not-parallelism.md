@@ -38,3 +38,11 @@
 * Adding things to the design can make it more efficient.
 * Parallelism can come from better concurrent expression of the problem.
 
+
+* Some history: [Bell Labs and CSP Threads](https://swtch.com/~rsc/thread/)
+* A previous talk [Advanced Topics in Programming Languages: Concurrency/message passing Newsqueak](https://tinyurl.com/newsqueak1)
+* [Parellelism is not concurrency (Harper)](https://tinyurl.com/pincharper)
+* [A concurrent window system (Pike)](https://tinyurl.com/pikecws)
+* [Concurrent power series (McIlroy)](https://tinyurl.com/powser)
+* [Parallel but not concurrent](https://research.google.com/archive/sawzall.html)
+
