@@ -1,6 +1,5 @@
 # Drafts
 
-* [Breaking Codes, Building Jets, and Designing Teams by Randy Shoup](breaking-codes-building-jets-and-designing-teams)
 
 
 * [Designing a high-performing team by Alison Coward](designing-high-perfoming-team)

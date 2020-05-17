@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2020.05.17 [Breaking Codes, Building Jets, and Designing Teams by Randy Shoup](breaking-codes-building-jets-and-designing-teams)
 * 2020.05.07 [Concurrency Is Not Parallelism - Rob Pike](concurrency-is-not-parallelism)
 * 2020.04.30 [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr - John Allspaw and Paul Hammondt](ten-plus-deploys-per-day)
 * 2020.03.30 [Mob Programming: A Whole Team Approach - Woody Zuill](mob-programming-a-whole-team-approach)
