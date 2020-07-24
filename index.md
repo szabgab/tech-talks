@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2020.07.24 [Hacking Conway's Law - Raffi Krikorian](hacking-conways-law-by-raffi-krikorian)
 * 2020.06.08 [A tour of Apache Pulsar - Jowanza Joseph](a-tour-of-apache-pulsar)
 * 2020.05.17 [Breaking Codes, Building Jets, and Designing Teams - Randy Shoup](breaking-codes-building-jets-and-designing-teams)
 * 2020.05.07 [Concurrency Is Not Parallelism - Rob Pike](concurrency-is-not-parallelism)
