@@ -105,7 +105,40 @@ In order to scale as an org you need to limit the technologies to a few.
 * When there is a bug in production, the first question asked in a post-mortem is where is the test that covered this scenario.
 
 
+### Quality
+
+* To have Quality (of code and product) you need Better Engineers.
+* To have Better Engineers you need to grow them. You need Professional Growth.
+* To have Professional Grows you need investment in People and Training.
+
+### Guild Day - 20% of the time dedicated to education and personal growth
+
+* Engineers work 4 days a week with their company (gang).
+* Thursday is Guild day.
+* Developers conduct quality enhancing activities with the Guild.
 
 
+### Guild Week - Game of Gangs
 
+* One week each quarter
+* Pair programming with a person from another company (inside Wix)
 
+* Goal #1 - Improve engineering skills and quality
+
+### Communication channels
+
+* monday.com
+* Slack
+* Stackoverflow
+* WixAnswers
+* confluence
+* whatsapp
+* Gmail
+
+### Elements of healthy growth
+
+* Transparency
+* Quality
+* Trust and Collaboration
+* Independence
+* Growth
