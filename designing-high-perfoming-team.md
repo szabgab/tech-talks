@@ -103,5 +103,5 @@ allowfullscreen>
 * Design - Test changes
 
 
-![](assets/img/p/alison_coward.jpeg)
+![](assets/img/p/alison_coward.jpg)
 
