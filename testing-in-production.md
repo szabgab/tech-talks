@@ -111,5 +111,6 @@ Automatically generate the documentation from the curl-based examples and respon
 * [Sumologic](https://www.sumologic.com/)
 * [Splunk](https://www.splunk.com/)
 
-![](assets/img/l/)
+![](assets/img/p/michael_bryzek.jpeg)
+
 

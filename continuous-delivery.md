@@ -17,7 +17,7 @@ allowfullscreen>
 
 ## Source
 
-* At []()
+* At [x-Conf 2014](https://www.thoughtworks.com/talks/software-development-21st-century-xconf-europe-2014)
 
 ## Slides
 
@@ -73,7 +73,7 @@ Benefits of Continuous Delivery:
 [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by
 Jez Humble and David Farley
 
-![](assets/img/l/)
+![](assets/img/p/martin_fowler.jpg)
 
 
 

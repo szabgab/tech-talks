@@ -3,8 +3,9 @@
 ## Speaker
 
 * Jez Humble
-* [Twitter]()
-* [LinkedIn]()
+* [Continuous Delivery](https://continuousdelivery.com/)
+* [Twitter](https://twitter.com/jezhumble)
+* [LinkedIn](https://www.linkedin.com/in/jez-humble/)
 
 ## Video
 
@@ -18,13 +19,11 @@ allowfullscreen>
 
 ## Source
 
-* At [Craft-Conf Budapest 2019](https://craft-conf.com/)
-
-## Slides
+* At [DevOps Enterprise Summit 2015](https://events.itrevolution.com/)
 
 ## Notes
 
-iIf your architecture does not support continuous delivery then DevOps won?t help.
+If your architecture does not support continuous delivery then DevOps won't help.
 
 So architecture and culture are the two biggest obstacles to achieve high performance continuous delivery and DevOps.
 
@@ -38,22 +37,22 @@ The ability to get changes ? features, configuration changes, bug fixes, experim
 Be able to push out changes during normal business hours.
 
 Two golden rules
-?       Software (trunk, master,..) is always deployable
-?       Everyone is checking into trunk (master) at least once a day
+* Software (trunk, master,..) is always deployable
+* Everyone is checking into trunk (master) at least once a day
 
 Ingredients
-?       Configuration management (setting up the environment, servers, etc.)
-?       Continuous integration  (everyone working on trunk, having a test suite that can check if everything works in a short amount of time and then fixing any breakage immediately)  Prioritizing fixing the
+* Configuration management (setting up the environment, servers, etc.)
+* Continuous integration  (everyone working on trunk, having a test suite that can check if everything works in a short amount of time and then fixing any breakage immediately)  Prioritizing fixing the
 code over adding new features.
-?       Automated testing
+* Automated testing
 
 Deployment Pipeline
 
 If we are even slightly nervous when pushing the deploy button it means our automatic tests and validations are not good enough.
 
 To validate the golden rules
-?       Testability (there is a good coverage of tests)
-?       Deployability  (deploy is low-risk single pushbutton affair)
+* Testability (there is a good coverage of tests)
+* Deployability  (deploy is low-risk single pushbutton affair)
 
 
 12 factor applications
@@ -105,28 +104,24 @@ Monitoring
 Bind components at build time. (deploy a huge binary)
 
 
-John Penix
-Large-Scale Continuous Testing in the Cloud
-https://www.infoq.com/presentations/Continuous-Testing-Build-Cloud/
+* John Penix
+* [Large-Scale Continuous Testing in the Cloud](https://www.infoq.com/presentations/Continuous-Testing-Build-Cloud/)
 
 
+* Michael T. Nygard
 
-Michael T. Nygard
-
-Release It!: Design and Deploy Production-Ready Software
-https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213
+* [Release It!: Design and Deploy Production-Ready Software](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
 
 
+* [Steve Yegge platform rant](https://bit.ly/1zxknpR)
+* [other](https://gist.github.com/chitchcock/1281611)
+
+* Werner Vogels: you build it you run it
+
+* Strangler application
+
+* There is no "end state" of an architecture. Architecture will always change.
 
 
-steve yegge platform rant  bit.ly/1zxknpR
-https://gist.github.com/chitchcock/1281611
+![](assets/img/p/jez_humble.jpeg)
 
-werner vogels
-you build it you run it
-
-30:28
-
-
-
-![](assets/img/l/)
