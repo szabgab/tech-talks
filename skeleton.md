@@ -8,7 +8,7 @@
 
 ## Video
 
-* [](https://www.youtube.com/watch?v=)
+* [video](https://www.youtube.com/watch?v=)
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/"
 frameborder="0"
@@ -18,11 +18,11 @@ allowfullscreen>
 
 ## Source
 
-* At [Craft-Conf Budapest 2019](https://craft-conf.com/)
+* At [Conf 2019]()
 
 ## Slides
 
 ## Notes
 
 
-![](assets/img/l/)
+![](assets/img/p/)

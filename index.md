@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2020.11.06 [The Secrets of High Performing Technology Organizations - Jez Humble](the-secrets-of-high-performing-technology-organizations)
 * 2020.11.05 [Designing a high-performing team - Alison Coward](designing-high-perfoming-team)
 * 2020.07.24 [Scaling Engineering by Hacking Conway's Law - Aviran Mordo](scaling-engineering-by-backing-conways-law)
 * 2020.07.24 [Hacking Conway's Law - Raffi Krikorian](hacking-conways-law-by-raffi-krikorian)
