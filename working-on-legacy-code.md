@@ -2,8 +2,9 @@
 
 ## Speaker
 
-* Anna Filina
+* [Anna Filina](https://afilina.com/)
 * [Twitter](https://twitter.com/afilina)
+* [YouTube](https://www.youtube.com/channel/UCYY9AuXxLe7H5c3ZzfJ5CSA)
 
 ## Video
 
