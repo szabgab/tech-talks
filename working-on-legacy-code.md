@@ -18,5 +18,6 @@ allowfullscreen>
 
 ## Source
 
-Interview by Peter Fisher on the How To Code Well Podcast
+Interview by Peter Fisher on the [How To Code Well Podcast](https://howtocodewell.fm/)
+See also the [How to code well](https://www.howtocodewell.net/) courses.
 
