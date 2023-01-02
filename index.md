@@ -10,6 +10,7 @@ Selected presentations in the topics of
 
 ## So far we have
 
+* 2023.01.02 [Prioritizing Technical Debt as If Time & Money Matters - Adam Tornhill](prioritizing-technical-debt)
 * 2021.04.06 [Working On Legacy Code - Anna Filina](working-on-legacy-code)
 * 2020.11.06 [The Secrets of High Performing Technology Organizations - Jez Humble](the-secrets-of-high-performing-technology-organizations)
 * 2020.11.05 [Designing a high-performing team - Alison Coward](designing-high-perfoming-team)
